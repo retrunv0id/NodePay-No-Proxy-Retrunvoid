@@ -42,13 +42,13 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip -y
 ```
 ```bash
-pip install -r requirements.txt
-```
-```bash
 git clone https://github.com/retrunv0id/NodePay-No-Proxy-Retrunvoid.git
 ```
 ```bash
 cd NodePay-No-Proxy-Retrunvoid
+```
+```bash
+pip install -r requirements.txt
 ```
 Edit Paste You NP TOKEN
 ```bash
