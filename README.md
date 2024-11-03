@@ -45,7 +45,14 @@ sudo apt install python3 python3-pip -y
 pip install -r requirements.txt
 ```
 ```bash
-wget https://raw.githubusercontent.com/retrunv0id/ElixirNodeMainnet/main/install-mainnet.sh && chmod +x install-mainnet.sh && ./install-mainnet.sh
+git clone https://github.com/retrunv0id/NodePay-No-Proxy-Retrunvoid.git
+```
+```bash
+cd NodePay-No-Proxy-Retrunvoid
+```
+Edit Paste You NP TOKEN
+```bash
+nano np_retrunvoid.txt
 ```
 - Run your script:
 
