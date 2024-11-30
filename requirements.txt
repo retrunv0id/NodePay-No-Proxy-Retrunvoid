@@ -1,3 +1,5 @@
 cloudscraper
 loguru
 requests
+fake_useragent
+aiohttp
