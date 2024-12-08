@@ -1,5 +1,5 @@
 cloudscraper
 loguru
 requests
-fake_useragent
+fake_useragent==0.1.11
 aiohttp
