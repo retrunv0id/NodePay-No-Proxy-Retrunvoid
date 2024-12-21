@@ -3,3 +3,8 @@ loguru
 requests
 fake_useragent==0.1.11
 aiohttp
+asyncio
+curl_cffi
+requests
+threading
+concurrent.futures
